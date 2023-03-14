@@ -1,0 +1,17 @@
+{
+  "name": "pizza_orders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bigml": "^1.26.0",
+    "bigml-node": "^1.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1"
+  }
+}
